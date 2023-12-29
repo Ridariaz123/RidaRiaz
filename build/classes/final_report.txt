@@ -1,0 +1,17 @@
+Competitors:
+Competitor Number | Name | Category | Level | Age | Gender | Country | Scores
+1 | ABC | ATHLETE | NOVICE | 20 | male | PK | [1, 4]
+2 | XYZ | ATHLETE | NOVICE | 11 | male | PK | [1, 5]
+
+Competitor with the highest overall score:
+Competitor Number: 2, Name: XYZ, Overall Score: 3.00
+
+Summary Statistics:
+Total Competitors: 2
+Average Overall Score: 2.75
+Maximum Overall Score: 3.0
+Minimum Overall Score: 2.5
+Frequency Report:
+Score 1: 2 times
+Score 4: 1 times
+Score 5: 1 times
